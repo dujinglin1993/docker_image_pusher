@@ -1,7 +1,10 @@
 #nginx
 #postgres
 #postgres:14.12
-postgres:12.14
+#postgres:12.14
+kafka:3.2.0
+zookeeper:3.8.0
+kafka-manager
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
