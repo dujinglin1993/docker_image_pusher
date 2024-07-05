@@ -2,8 +2,8 @@
 #postgres
 #postgres:14.12
 #postgres:12.14
-kafka:3.2.0
-zookeeper:3.8.0
+kafka
+zookeeper
 kafka-manager
 
 #支持私库
